@@ -121,12 +121,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yuvraj13742&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
 ### 📈 Contribution Graph
 [![Yuvraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj13742&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Yuvraj13742)
 
