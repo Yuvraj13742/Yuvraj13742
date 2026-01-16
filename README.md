@@ -153,26 +153,16 @@
 
 <div align="center">
 
-<a href="https://github.com/Yuvraj13742/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj13742&repo=portfolio&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Yuvraj13742/health_vault">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj13742&repo=health_vault&theme=tokyonight&hide_border=true" />
-</a>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎨 [**Portfolio**](https://github.com/Yuvraj13742/portfolio) | Personal portfolio website with Harry Potter theme | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) |
+| 🏥 [**Health Vault**](https://github.com/Yuvraj13742/health_vault) | Healthcare management system with AI features | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+| 🏛️ [**CivicConnect**](https://github.com/Yuvraj13742/CivicConnect) | Citizen engagement platform for local governance | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| 💳 [**Dodo Payments**](https://github.com/Yuvraj13742/dodo-payments) | Payment processing application | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
+| 🏃 [**Marathon**](https://github.com/Yuvraj13742/marathon) | Event management platform for marathons | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| 🚗 [**ADR Casuality**](https://github.com/Yuvraj13742/ADR_Casuality) | Accident detection and reporting system | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
 
-<a href="https://github.com/Yuvraj13742/CivicConnect">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj13742&repo=CivicConnect&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Yuvraj13742/dodo-payments">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj13742&repo=dodo-payments&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Yuvraj13742/marathon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj13742&repo=marathon&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Yuvraj13742/ADR_Casuality">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj13742&repo=ADR_Casuality&theme=tokyonight&hide_border=true" />
-</a>
+### 🔗 [View All Repositories →](https://github.com/Yuvraj13742?tab=repositories)
 
 </div>
 
