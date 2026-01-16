@@ -111,15 +111,17 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Yuvraj13742&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=Yuvraj13742&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+
+<a href="https://github.com/Yuvraj13742">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yuvraj13742&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yuvraj13742&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj13742&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yuvraj13742&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
